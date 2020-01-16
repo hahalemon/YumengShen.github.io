@@ -1,6 +1,4 @@
 # YumengShen.github.io
-
-<!DOCTYPE html>
 <html>
 <head>
 
@@ -108,7 +106,7 @@ a:link {text-decoration:  none;
   <li>5</li>
   <li>6</li>
   <li>7</li>
-  <li> 8 </li>
+  <li>8</li>
   <li>9</li>
   <li>10</li>
   <li>11</li>
@@ -129,7 +127,7 @@ a:link {text-decoration:  none;
   <li>26</li>
   <li>27</li>
   <li><mark><span class="active"><a href=" https://www.hellofresh.com/landing/holidays"</span> 28</a></mark></li>
-    <li><mark>29</mark></li>
+   <li><mark>29</mark></li>
     <li><mark>30</mark></li>
     <li><mark>31</mark></li>
 </ul>
